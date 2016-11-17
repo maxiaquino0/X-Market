@@ -269,6 +269,9 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\xmarket - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\xmarket - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\XMARKET.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
